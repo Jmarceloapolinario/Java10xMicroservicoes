@@ -210,12 +210,6 @@ cd user && ./mvnw test
 cd email && ./mvnw test
 ```
 
-## Próximos passos
-
-- [ ] Containerizar os serviços e orquestrar tudo em um único `docker-compose.yml`
-- [ ] Adicionar testes unitários e de integração
-- [ ] Implementar fila de retry / dead letter para e-mails com falha
-- [ ] Adicionar API Gateway e service discovery
 
 ## Sobre o curso
 
@@ -223,7 +217,7 @@ Este projeto foi desenvolvido por mim, passo a passo, acompanhando as aulas do c
 
 ## Autor
 
-**Marcelo Apolinário**
+**José Marcelo**
 GitHub: [@Jmarceloapolinario](https://github.com/Jmarceloapolinario)
 
 ---
